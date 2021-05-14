@@ -1,0 +1,22 @@
+body {}
+
+.afirmacion_div {
+  padding: 10px;
+  /*NT*/
+  margin: 0px 12% 0px 12%;
+  /*NT*/
+  text-align: center;
+  /*NT*/
+  border: solid black 5px;
+  /*NT, si cambiais el valor de los pixeles canviareis el grosor de la linea*/
+}
+
+.afirmacion_texto {}
+
+.boton {}
+
+/*Id*/
+
+#verdadero {}
+
+#falso {}
