@@ -1,4 +1,8 @@
+/* Equiquetas */
+
 body {}
+
+/* Clases */
 
 .afirmacion_div {
   padding: 10px;
@@ -15,8 +19,33 @@ body {}
 
 .boton {}
 
+.Panel_Botones {}
+
+.Marcador {
+  display: inline-table;
+  /*NT*/
+  border: black solid 5px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.Texto_Marcador {}
+
 /*Id*/
 
 #verdadero {}
 
 #falso {}
+
+.Notificacion_correcta {
+  background-color: green;
+}
+
+.Notificacion_incorrecta {
+  background-color: red;
+}
+
+.Notificacion {
+  text-align: center;
+  padding: 10px;
+}

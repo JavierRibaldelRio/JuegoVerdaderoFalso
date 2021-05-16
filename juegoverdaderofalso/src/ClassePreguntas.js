@@ -6,3 +6,5 @@ function AfirmacionObjeto(afirmacion, verdadero) {
 
 
 }
+
+export default AfirmacionObjeto;

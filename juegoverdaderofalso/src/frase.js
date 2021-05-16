@@ -1,22 +1,23 @@
 var React = require('react'); //necesario para usa react
 
+//Este componente muestra la frase que aparece en el centro
 class Afirmacion extends React.Component {
 
     constructor(props) {
 
         super(props);
 
-        this.state = { afirmacion: this.props.afirmacion.trim() } //Cog e la afirmación y le elimina los espacios tanto a principio de palabra como al final
     }
 
     render() {
+
 
 
         return (
 
             <div className="afirmacion_div">
 
-                <p className="afirmacion_texto">{this.state.afirmacion}</p>
+                <p className="afirmacion_texto">{this.props.afirmacion}</p>
 
             </div>
 
