@@ -1,0 +1,22 @@
+[
+    {
+        "Afirmacion": "La capital de Noruega es Madrid",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Los globulos blancos se encargan de las defensas del organismo",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La capital de holanda es Amsterdan",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "MRUA siginifica movimiento rectilineo uniforme  antiguo",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Los globulos rojos transportan nutrientes",
+        "Verdadero": false
+    }
+]
