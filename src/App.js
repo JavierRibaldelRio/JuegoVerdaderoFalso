@@ -93,7 +93,14 @@ class App extends React.Component {
 
       for (var i = 0; i < jsonAfirmaciones.length; i++) {
 
-        let nuevoObjeto = new AfirmacionObjeto(jsonAfirmaciones[i].Afirmacion, jsonAfirmaciones[i].Verdadero);
+        var verdadero = false;
+
+        //Combierte en binario a boolean
+        if (jsonAfirmaciones[i].Verdadero === 1) {
+          verdadero = true;
+        }
+
+        let nuevoObjeto = new AfirmacionObjeto(jsonAfirmaciones[i].Afirmacion, verdadero);
 
         arr.push(nuevoObjeto);
       }
