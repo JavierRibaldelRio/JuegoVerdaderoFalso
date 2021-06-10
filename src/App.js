@@ -149,20 +149,32 @@ class App extends React.Component {
     return (
       <div className="App" >
 
-        <Afirmacion afirmacion={afirmacionAMostrar} />
 
-        <PanelBotones estadoJuego={juegoParado} alMarcar={this.marcar.bind(this)}/*Le pasa al panel de botones la funcón que se a de usar al marcar un botón*/ />
+        <div className="Arriba">
 
-        <br />
+          <br />
+          <br />
+          <br />
+          <br />
 
-        <hr />
 
-        <Marcador texto="Vidas" valor={this.state.vidas} />
+          <Afirmacion afirmacion={afirmacionAMostrar} />
 
-        <Marcador texto="Afirmaciones correctas" valor={this.state.afirmacionesCorrectas} />
 
-        <NotificacicionUsuario texto={this.state.notificacion} tipo={this.state.buenaNotificacion} />
+          <PanelBotones estadoJuego={juegoParado} alMarcar={this.marcar.bind(this)}/*Le pasa al panel de botones la funcón que se a de usar al marcar un botón*/ />
 
+          <br />
+        </div>
+
+        <div className="Abajo">
+          <hr />
+
+          <Marcador texto="Vidas" valor={this.state.vidas} />
+
+          <Marcador texto="Afirmaciones correctas" valor={this.state.afirmacionesCorrectas} />
+
+          <NotificacicionUsuario texto={this.state.notificacion} tipo={this.state.buenaNotificacion} />
+        </div>
       </div>);
   }
 }

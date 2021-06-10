@@ -1,6 +1,9 @@
 /* Equiquetas */
 
-body {}
+body {
+  background-color: black;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
 
 /* Clases */
 
@@ -11,41 +14,67 @@ body {}
   /*NT*/
   text-align: center;
   /*NT*/
-  border: solid black 5px;
+  border: solid rgba(58, 116, 44, 0.863) 5px;
   /*NT, si cambiais el valor de los pixeles canviareis el grosor de la linea*/
+  background-color: rgb(13, 204, 211);
+  border-radius: 15px;
+  font-size: 25px;
 }
 
-.afirmacion_texto {}
-
-.boton {}
-
-.Panel_Botones {}
+.Panel_Botones {
+  padding: 25px;
+}
 
 .Marcador {
   display: inline-table;
   /*NT*/
-  border: black solid 5px;
+  border: white solid 5px;
   margin: 5px;
   padding: 10px;
+  color: aqua;
+  border-radius: 15px;
 }
-
-.Texto_Marcador {}
 
 /*Id*/
 
-#verdadero {}
+.Boton {
+  margin-left: 50px;
+  margin-right: 100px;
+  border-radius: 15%;
+  font-size: 18px;
+  padding: 12px;
+  border: solid;
+}
 
-#falso {}
+#verdadero {
+  background-color: greenyellow;
+  border-color: green;
+}
+
+#falso {
+  background-color: rgb(182, 34, 34);
+  border-color: red;
+}
+
+.Notificacion {
+  text-align: center;
+  padding: 30px;
+  margin-right: 45%;
+  margin-left: 45%;
+  margin-top: 70px;
+  font-size: 25px;
+}
 
 .Notificacion_correcta {
-  background-color: green;
+  background-color: greenyellow;
 }
 
 .Notificacion_incorrecta {
   background-color: red;
 }
 
-.Notificacion {
-  text-align: center;
-  padding: 10px;
+.Arriba {
+  background-color: purple;
+  margin: 5px;
+  border-radius: 10px;
 }
