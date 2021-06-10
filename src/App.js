@@ -153,8 +153,7 @@ class App extends React.Component {
         <div className="Arriba">
 
           <br />
-          <br />
-          <br />
+
           <br />
 
 
