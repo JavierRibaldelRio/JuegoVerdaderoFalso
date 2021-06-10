@@ -59,9 +59,7 @@ body {
 .Notificacion {
   text-align: center;
   padding: 30px;
-  margin-right: 45%;
-  margin-left: 45%;
-  margin-top: 70px;
+  margin: 0 auto;
   font-size: 25px;
 }
 
@@ -77,4 +75,13 @@ body {
   background-color: purple;
   margin: 5px;
   border-radius: 10px;
+}
+
+#botonVolverAJugar {
+  margin-top: 5px;
+}
+
+#Notificacion_Centrada {
+  text-align: center;
+  margin-top: 70px;
 }

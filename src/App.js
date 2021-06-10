@@ -93,14 +93,14 @@ class App extends React.Component {
 
       for (var i = 0; i < jsonAfirmaciones.length; i++) {
 
-        var verdadero = false;
+        // var verdadero = false;
 
-        //Combierte en binario a boolean
-        if (jsonAfirmaciones[i].Verdadero === 1) {
-          verdadero = true;
-        }
+        // //Combierte en binario a boolean
+        // if (jsonAfirmaciones[i].Verdadero === 1) {
+        //   verdadero = true;
+        // }
 
-        let nuevoObjeto = new AfirmacionObjeto(jsonAfirmaciones[i].Afirmacion, verdadero);
+        let nuevoObjeto = new AfirmacionObjeto(jsonAfirmaciones[i].Afirmacion, jsonAfirmaciones[i].Verdadero);
 
         arr.push(nuevoObjeto);
       }
@@ -171,8 +171,20 @@ class App extends React.Component {
           <Marcador texto="Vidas" valor={this.state.vidas} />
 
           <Marcador texto="Afirmaciones correctas" valor={this.state.afirmacionesCorrectas} />
+          <div id="Notificacion_Centrada">
+            <div id="Notificacion_Centrada">
 
-          <NotificacicionUsuario texto={this.state.notificacion} tipo={this.state.buenaNotificacion} />
+              <NotificacicionUsuario texto={this.state.notificacion} tipo={this.state.buenaNotificacion} />
+
+            </div>
+          </div>
+
+          <form>
+
+            <button className="Boton" id="botonVolverAJugar">Volver a Jugar</button>
+
+          </form>
+
         </div>
       </div>);
   }
