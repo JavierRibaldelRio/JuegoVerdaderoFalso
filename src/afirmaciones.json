@@ -1,234 +1,450 @@
 [
     {
         "Afirmacion": "La capital de Noruega es Madrid",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Los globulos blancos se encargan de las defensas del organismo",
-        "Verdadero": 1
+        "Afirmacion": "Los glóbulos blancos se encargan de las defensas del organismo",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "La capital de holanda es Amsterdan",
-        "Verdadero": 1
+        "Afirmacion": "La capital de holanda es Amsterdam",
+        "Verdadero": true
     },
     {
         "Afirmacion": "MRUA significa movimiento rectilíneo uniforme  antiguo",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
         "Afirmacion": "Los glóbulos rojos transportan nutrientes",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "MRU significa Movimiento rectilineo uniforme",
-        "Verdadero": 1
+        "Afirmacion": "MRU significa Movimiento rectilinio uniforme",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "El pasado del verbo  “eat”  es  “eated” ",
-        "Verdadero": 0
+        "Afirmacion": "El pasado del verbo “eat” es “eated\"",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "La capital de Finlandia es Oslo",
-        "Verdadero": 0
+        "Afirmacion": "La capital de finlandia es Oslo",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Los ecosistemas estan conformados por el biotopo y la bionenosis",
-        "Verdadero": 1
+        "Afirmacion": "Los ecosistemas están conformados por el biotopo y la biocenosis",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "El bolo alimentario se produce en el estomago",
-        "Verdadero": 0
+        "Afirmacion": "El bolo alimenticio se produce en el estómago",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "La Edad Media dura 8 siglos",
-        "Verdadero": 0
+        "Afirmacion": "La Edad Media duró 8 siglos",
+        "Verdadero": false
     },
     {
         "Afirmacion": "En el calentamiento de E.F el movimiento que hacemos en el tobillo se llama circunducción",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "Un ion es un atomo que ha ganado o perdido un proton",
-        "Verdadero": 0
+        "Afirmacion": "Un ion es un átomo que ha ganado o perdido un protón",
+        "Verdadero": false
     },
     {
         "Afirmacion": "El sector primario es el que se extraen primeras materias de la naturaleza",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "La formula de una función lineal es: y=xm+n",
-        "Verdadero": 1
+        "Afirmacion": "La fórmula de una función lineal es: y = mx + n",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "El descomponedor se alimenta de substáncias inorgánicas y genera substancias orgánicas",
-        "Verdadero": 0
+        "Afirmacion": "El descomponedor se alimentan de substancias inorgánicas y genera substancias orgánicas",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Existe la clave de  do  en cuarta",
-        "Verdadero": 1
+        "Afirmacion": "Existe la clave de “do” en cuarta",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "Un buen fotografo pone siempre el horizonte en el centro",
-        "Verdadero": 0
+        "Afirmacion": "Un buen fotógrafo pone siempre el horizonte en el centro",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Jesús murio en la fecha que hoy se conoce como Navidad ",
-        "Verdadero": 0
+        "Afirmacion": "Jesús murió en la fecha que hoy se conoce como Navidad ",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Panal y pañal son palabras parónimas",
-        "Verdadero": 1
+        "Afirmacion": "Pañal y pañal son palabras parónimas",
+        "Verdadero": true
     },
     {
         "Afirmacion": "La Cuaresma dura 40 días",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "En valenciano: la estructura externa de un texto consiste en decir cuantas líneas y párrafos tiene",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "Marta come tarta con su hermana. En esta frase el CD es  tarta ",
-        "Verdadero": 1
+        "Afirmacion": "Marta come tarta con su hermana. En esta frase el CD es “tarta\"",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "En inglés rotula es rotul",
-        "Verdadero": 0
+        "Afirmacion": "En inglés rótula es rotul",
+        "Verdadero": false
     },
     {
         "Afirmacion": "La mejor liga de basket de España es la CBA",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
         "Afirmacion": "El lobo es un productor",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Una de las actividades economicas del sector terciario es la mineria",
-        "Verdadero": 0
+        "Afirmacion": "Una de las actividades económicas del sector terciario es la minería",
+        "Verdadero": false
     },
     {
         "Afirmacion": "En formulación en tradicional el NH3 se llama nitrógeno",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "El pasado simple del verbo  to be  es  was ",
-        "Verdadero": 0
+        "Afirmacion": "El pasado simple del verbo “to be” es “was\"",
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Una equación de segundo grado no simpre tiene 2 soluciones",
-        "Verdadero": 1
+        "Afirmacion": "Una ecuación de segundo grado no siempre tiene 2 soluciones",
+        "Verdadero": true
     },
     {
         "Afirmacion": "El Romanticismo va después que el Barroco",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "La lengua más hablada del mundo es el chino",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "Al final del Quijote, don Quijote se reunió con Dulcinea.",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
         "Afirmacion": "La capital de Ucrania es Kiev",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "El Barroco transcurre a lo largo de los siglos XI y XIII",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
         "Afirmacion": "Muñeca en inglés es Wrist",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "El balón medicinal pesa 3000g",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "El folkaball es un deporte parecido al football",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "La fórmula de la densidad es d=v  /  m",
-        "Verdadero": 0
+        "Afirmacion": "La fórmula de la densidad es d = v / m",
+        "Verdadero": false
     },
     {
         "Afirmacion": "Un metal tiende a formar un catión",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "Las elecciones en democracia directa se celebrna cada semana",
-        "Verdadero": 0
+        "Afirmacion": "Las elecciones en democracia directa se celebran cada semana",
+        "Verdadero": false
     },
     {
         "Afirmacion": "Cuanta más presión más volumen",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
         "Afirmacion": "La democracia se inventó en Atenas",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "El segundo condicional se utiliza para expresar hipotesis",
-        "Verdadero": 1
+        "Afirmacion": "El segundo condicional se utiliza para expresar hipótesis",
+        "Verdadero": true
     },
     {
-        "Afirmacion": "La formula del rombo es b · h",
-        "Verdadero": 0
+        "Afirmacion": "La fórmula del rombo es b · h",
+        "Verdadero": false
     },
     {
         "Afirmacion": "Plaster cast significa escayola",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "Must not significa que estás obligado a hacerlo",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Old y entushiastic significan lo mismo",
-        "Verdadero": 0
+        "Afirmacion": "Old y enthusiastic significan lo mismo",
+        "Verdadero": false
     },
     {
         "Afirmacion": "Cantar a capella es cantar sin música",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "La parte de abajo de una fracción se llama denominador",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "Una progresión aritmética es lo mismo que una geométrica",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "Los herzios del la nota  la  equivalen a 440Hz",
-        "Verdadero": 1
+        "Afirmacion": "Los herzios del la nota “la” equivalen a 440Hz",
+        "Verdadero": true
     },
     {
         "Afirmacion": "El papel básik es mejor para dibujar",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "La rejilla de los tercios tiene 3 tercios",
-        "Verdadero": 0
+        "Verdadero": false
     },
     {
-        "Afirmacion": "En los lápices la  H  significa  flojo ",
-        "Verdadero": 0
+        "Afirmacion": "En los lápices la “H” significa “flojo\"",
+        "Verdadero": false
     },
     {
         "Afirmacion": "Una foto bien hecha no tiene el horizonte en el centro de la imagen",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
         "Afirmacion": "La magia es el intento de control de Dios mediante rituales",
-        "Verdadero": 1
+        "Verdadero": true
     },
     {
-        "Afirmacion": "Los libros apocalípticos están caracterizados por tener un final con moraleja",
-        "Verdadero": 0
+        "Afirmacion": "El “levítico” forma parte de las cartas de los apóstoles",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "La primera persona del presente de tossir es “tus\"",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "En valenciano: La 1ª persona del singular del presente de indicativo del verbo “morir” es “muir\"",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Los cromosomas del hombre son XX",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Un climograma es el conjunto de temperatura y de las precipitaciones",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "En una oración con PN necesariamente va a haber un PVO",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El hombre puede aportar cromosomas X o Y",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Garcilaso de la Vega pertenece al Barroco",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "La “j” se escribe con a, e, i, o, u en valenciano",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El ArH es un metal",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Pluma en inglés es shuttlecock",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "En hockey sala la bola y los sticks son iguales",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "El paso de sólido a líquido es la solidificación",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "La capital de Portugal es Lisboa",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "En inglés: para hacer una frase en pasiva hay que usar el participio del verbo en cuestión",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La capital de Noruega es Washington",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "En inglés: Un modal verb es might",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "(a+b)² se puede resolver como (a+b)*(a+b)",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "El pasado de sing es singed",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El primer elemento de la tabla periódica es el helio",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "La capital de España es Portugal",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "May y might significan cosas muy parecidas",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "A la hora de calentar, el movimiento que utilizamos en el tobillo es la flexión",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Un tresillo de negras equivale a una blanca",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La función cuadrática se caracteriza por tener un término elevado a 3",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Un tresillo de redondas equivale a 2 blancas con puntillo",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El desenfoque se ha de realizar siempre en el centro",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El símbolo pp significa pianissimo",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La categoría “Landscape Photography” trata de fotos de helicópteros",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "fi (en estadística) significa valor auténtico absoluto",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "\"Filemón” pertenece al libro de las Cartas",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Los Rolling Stones se formaron en EE.UU",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "La movida Madrileña fue en medio de la guerra civil española",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El Quinto Elemento está protagonizada por Bruce Willis",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Una técnica de 3D es el desenfoque",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Los libros sapienciales están caracterizados por su escritura en verso",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Excepcionalmente la “x” forma parte de las gráfias de la s sorda",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "El libro de OS pertenece a Osas",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Las vitaminas hidrosolubles son las: “K\", “E\", “D” y “A\"",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Los puntos suspensivos sirven para indicar que una enumeración está inacabada",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La obra más famosa de Calderón de la Barca fue Polifemo y Galatea",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Las células son pluricelulares",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El antebrazo en inglés se dice: “prearm\"",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "La fórmula del hidruro de sodio es NaH",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La provincia de Teruel se encuentra al sur de Cadiz",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El escritor del Barroco que tenía una nariz enorme era Góngora",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "Las celulas son pluricelulares",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El calentamiento solo se hace al principio de la clase",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El dominio de una función constante es una 'R' con dos palos",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "El número másico del hidrógeno es 1,01",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La capital de Moldavia es Kiev",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "El bemol es lo mismo que  el sostenido",
+        "Verdadero": false
+    },
+    {
+        "Afirmacion": "Es más común la ese sonora que la sorda",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La capital de Finlandia es Estocolmo",
+        "Verdadero": true
+    },
+    {
+        "Afirmacion": "La z pertenece a la ese sorda",
+        "Verdadero": false
     }
 ]
